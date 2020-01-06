@@ -7,7 +7,7 @@
 var friends = [
     {
       name: "Rachel Green",
-      photo: "https://media.licdn.com/mpr/mpr/http://images.hellogiggles.com/uploads/2016/01/07/Friends-Rachel-Green-Kitchen.jpg/AAEAAQAAAAAAAAq7AAAAJDAwYzI4NTQ4LWYwZWUtNGFkYS1hNTYwLTZjYzkwY2ViZDA3OA.jpg",
+      photo: "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fhellogiggles.com%2Fwp-content%2Fuploads%2F2016%2F01%2F07%2FFriends-Rachel-Green-Kitchen.jpg&w=400&c=sc&poi=face&q=85",
       scores: [
         "5",
         "1",
@@ -15,7 +15,7 @@ var friends = [
         "4",
         "5",
         "1",
-        "2",
+        "2", 
         "5",
         "4",
         "1"
@@ -23,7 +23,7 @@ var friends = [
     },
     {
       name: "Joey Tribbiani",
-      photo: "https://pbs.https://upload.wikimedia.org/wikipedia/en/d/da/Matt_LeBlanc_as_Joey_Tribbiani.jpg.com/profile_images/691785039043022849/oWsy8LNR.jpg",
+      photo: "https://img.maximummedia.ie/joe_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtam9lLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE1XFxcLzEwXFxcLzI5MTExMzEyXFxcL0pvZXkuanBnXCIsXCJ3aWR0aFwiOjc2NyxcImhlaWdodFwiOjQzMSxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmpvZS5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2pvZVxcXC9uby1pbWFnZS5wbmc_aWQ9MjY0YTJkYmUzNzBmMmM2NzVmY2RcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMDY2ODU4NGY3MDNjZjg1MWJiOWU1YTgxMDJlNWE4ZTUxMzBlNGI1MiJ9/joey.jpg",
       scores: [
         "4",
         "2",
@@ -39,7 +39,7 @@ var friends = [
     },
     {
       name: "Phoebe Buffay",
-      photo: "https://avatars2.https://upload.wikimedia.org/wikipedia/en/f/f6/Friendsphoebe.jpg.com/u/8504998?v=3&s=460",
+      photo: "https://imgix.bustle.com/rehost/2016/9/13/8050f7a3-6653-4162-9a64-189ecabf5215.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
       scores: [
         "5",
         "2",
@@ -55,7 +55,7 @@ var friends = [
     },
     {
       name: "Monica Geller",
-      photo: "https://pbs.twimg.com/https://upload.wikimedia.org/wikipedia/en/d/d0/Courteney_Cox_as_Monica_Geller.jpg/639214960049000449/lNCRC-ub.jpg",
+      photo: "https://vignette.wikia.nocookie.net/friends/images/c/c4/Monica_overalls.jpg/revision/latest?cb=20190210055646",
       scores: [
         "3",
         "3",
@@ -71,7 +71,7 @@ var friends = [
     },
     {
       name: "Chandler Bing",
-      photo: "https://media.licdn.com/mpr/mpr/https://upload.wikimedia.org/wikipedia/en/6/66/Matthew_Perry_as_Chandler_Bing.png/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+      photo: "https://i.pinimg.com/originals/5b/8e/59/5b8e592514209b33db6259858d8248a0.jpg",
       scores: [
         "4",
         "3",
@@ -87,7 +87,7 @@ var friends = [
     },
     {
       name: "Ross Geller",
-      photo: "https://media.licdn.https://upload.wikimedia.org/wikipedia/en/6/6f/David_Schwimmer_as_Ross_Geller.jpg/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+      photo: "https://i.redd.it/6fg26yh8ppt21.png",
       scores: [
         "4",
         "4",
@@ -103,7 +103,7 @@ var friends = [
     },
     {
         name: "Will Smith",
-        photo: "https://media.licdn.com/mpr/mpr/https://upload.wikimedia.org/wikipedia/en/2/22/Will_Smith_Fresh_Prince.jpeg/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        photo: "https://cdn.cnn.com/cnnnext/dam/assets/170804134551-fresh-prince-of-bel-air-exlarge-169.jpg",
         scores: [
           "5",
           "5",
@@ -119,7 +119,7 @@ var friends = [
       },
       {
         name: "Carlton Banks",
-        photo: "https://media.licdn.com/mpr/https://vignette.wikia.nocookie.net/freshprince/images/a/ac/1carlton.jpg/revision/latest?cb=20180626133412/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        photo: "https://vignette.wikia.nocookie.net/freshprince/images/a/ac/1carlton.jpg/revision/latest/scale-to-width-down/300?cb=20180626133412",
         scores: [
           "3",
           "3",
@@ -135,7 +135,7 @@ var friends = [
       },
       {
         name: "Hilary Banks",
-        photo: "https://media.https://vignette.wikia.nocookie.net/freshprince/images/3/3d/1hil.jpeg/revision/latest?cb=20180706022412.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        photo: "https://imgix.bustle.com/rehost/2016/9/13/9e2a4982-bb3a-4d1a-abce-7729bd0349bd.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
         scores: [
           "4",
           "4",
@@ -151,7 +151,7 @@ var friends = [
       },
       {
         name: "Ashley Banks",
-        photo: "https://media.licdn.https://vignette.wikia.nocookie.net/freshprince/images/e/e7/1ashley.jpg/revision/latest?cb=20180626195152/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        photo: "https://imgix.bustle.com/uploads/image/2017/12/20/c48553a6-c576-4cc7-a3d1-1cc55c182752-4b27dd26684c72265e76502863e2cb46-tatyana-ali-perfect-eyelashes.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70",
         scores: [
           "3",
           "3",
